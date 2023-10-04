@@ -14,6 +14,7 @@ results indicate that the presented model here is capable to optimize the SVR pa
 
 # Requirements
 ```
+MATLAB >= R2019b
 LIBSVM -- A Library for Support Vector Machines
 ```
 # Citation
