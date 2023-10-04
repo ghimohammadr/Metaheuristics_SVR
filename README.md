@@ -1,5 +1,7 @@
 # Metaheuristics_SVR
 A Matlab implementation of paper "Forecasting stock market with support vector regression and butterfly optimization algorithm" (https://arxiv.org/abs/1905.11462).
+![figBAFlowChart](https://github.com/ghimohammadr/Metaheuristics_SVR/assets/32739020/7241d511-e76a-4d90-830f-787c70ed88c4)
+
 
 # Abstract
 Support Vector Regression (SVR) has achieved high performance on forecasting future behavior
@@ -8,12 +10,16 @@ Optimization Algorithm (BOA) is presented. The performance of the proposed model
 results indicate that the presented model here is capable to optimize the SVR parameters very well and indeed is one of the best models judged by both prediction performance accuracy and time consumption.
 
 # Requirements
+```
 LIBSVM -- A Library for Support Vector Machines
-
+```
 # Citation
+
+```
 @article{ghanbari2019forecasting,
   title={Forecasting stock market with support vector regression and butterfly optimization algorithm},
   author={Ghanbari, Mohammadreza and Arian, Hamidreza},
   journal={arXiv preprint arXiv:1905.11462},
   year={2019}
 }
+```
