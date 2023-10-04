@@ -9,3 +9,11 @@ results indicate that the presented model here is capable to optimize the SVR pa
 
 # Requirements
 LIBSVM -- A Library for Support Vector Machines
+
+# Citation
+@article{ghanbari2019forecasting,
+  title={Forecasting stock market with support vector regression and butterfly optimization algorithm},
+  author={Ghanbari, Mohammadreza and Arian, Hamidreza},
+  journal={arXiv preprint arXiv:1905.11462},
+  year={2019}
+}
